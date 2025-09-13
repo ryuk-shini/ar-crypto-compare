@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
-    "arweave": "^1.8.0",
+    "arweave": "^1.15.7",
     "big-number": "^2.0.0",
     "react": "next",
     "react-dom": "next",
